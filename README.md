@@ -13,4 +13,4 @@ a internet e equipamentos eletronicos
 
 ## Stack utilizada
 
-**Front-end:** React [<img src="https://img.shields.io/badge/-react-%23E4405F?style=for-the-badge&logo=react&logoColor=green"/>](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+**Front-end:** React [<img src="https://img.shields.io/badge/-react-%23E4405F?style=for-the-badge&logo=react&logoColor=0000FF"/>](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
